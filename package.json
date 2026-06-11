@@ -1,0 +1,21 @@
+{
+  "name": "malvin-c-leo-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp multi-device bot powered by Handsome Tech ZW.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "multi-device",
+    "baileys"
+  ],
+  "author": "Handsome Tech ZW",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.2",
+    "pino": "^8.21.0"
+  }
+}
